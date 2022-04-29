@@ -6,6 +6,8 @@ Markdown é uma linguagem de marcação  que visa converter textos em html váli
 
 Aqui temos alguns elementos do markdown:
 
+### cabeçalho
+
 # # representa um h1 do html
 ##  ## representa um h2 do html
 ## ...
@@ -47,7 +49,7 @@ ___
   break
 ___
 
-### links
+### links:
 
 temos a opção de chamar links com o markdown 
 
