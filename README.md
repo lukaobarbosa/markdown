@@ -53,5 +53,5 @@ temos a opção de chamar links com o markdown
 
 passamos o texto do link entre [] e em seguide entre () passamos a url 
 
-[github do Lukao](github.com/lukaobarbosa)
+[github do Lukao](https://github.com/lukaobarbosa)
 
