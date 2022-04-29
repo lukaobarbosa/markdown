@@ -51,6 +51,7 @@ ___
 
 temos a opção de chamar links com o markdown 
 
-[texto do link](www.google.com)
+passamos o texto do link entre [] e em seguide entre () passamos a url 
 
+[github do Lukao](github.com/lukaobarbosa)
 
