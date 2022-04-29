@@ -11,10 +11,10 @@ Aqui temos alguns elementos do markdown:
 ## ...
 ######  ###### representa um h6 do html
 
-_  
+___  
 
   texto dentro de separadores
-_
+___
 
 
 
