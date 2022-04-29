@@ -21,6 +21,8 @@ ___
 *abrindo * e fechando * sem espaços temos um texto italico*
 
 **abrindo ** e fechando ** sem espaço temos um texto negrito**
+
+
 ***teste italico negrito***
 
 
