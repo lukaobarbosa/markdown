@@ -13,12 +13,14 @@ Aqui temos alguns elementos do markdown:
 
 ___  
 
-  texto dentro de separadores são representados por ___ abrindo a linha e ___ fechando a linha de baixo
+  texto dentro de separadores são representados por ___ abrindo a linha, na linha de baixo o texto e na terceira linha outro ___
 ___
 
 ### textos com ênfase:
 
-*abrindo * e fechando * temos um texto italico*
+*abrindo * e fechando * sem espaços temos um texto italico*
 
+**abrindo ** e fechando ** sem espaço temos um texto negrito**
+***teste italico negrito***
 
 
