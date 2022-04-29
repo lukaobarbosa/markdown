@@ -22,7 +22,27 @@ ___
 
 **abrindo ** e fechando ** sem espaço temos um texto negrito**
 
+***podemos combinar os exemplos acima para fazer um texto italico e negrito***
 
-***teste italico negrito***
+### listas:
+
+ul -> unordered list passando * com espaço temos os elementos da lista
+
+* primeiro elemento
+* segundo emelento
+* terceiro elemento
+
+___
+
+  break
+___
+ ol -> ordered list passando 1. temos uma ordered list
+ 
+ 1. primeiro elemento
+ 2. segundo elemento
+ 3. terceiro elemento
+ 
+ 
+
 
 
