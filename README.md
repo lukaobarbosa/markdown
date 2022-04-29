@@ -1,6 +1,6 @@
 # markdown
 
-## Estudo voltado para aprendisado da linguagem de marcação markdown e sobre a importancia de uma boa documentação do código.
+## Estudo voltado para aprendisado da linguagem de marcação markdown e sobre como a usamos para documentar bem o código.
 
 Markdown é uma linguagem de marcação  que visa converter textos em html válido, permitindo a criação de elementos como cabeçalhos, listas, negrito, italico.
 
@@ -55,3 +55,13 @@ passamos o texto do link entre [] e em seguide entre () passamos a url
 
 [github do Lukao](https://github.com/lukaobarbosa)
 
+___
+
+break
+___
+ 
+ ### considerações finais 
+ 
+ podemos concluir que a linguagem markdown é muito fácil de ser usada trazendo os principais aspectos para podermos escrever uma doc bem organizada para os nossos estudos.
+ 
+ 
