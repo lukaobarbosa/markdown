@@ -18,7 +18,7 @@ ___
 
 ### textos com ênfase:
 
-* abrindo * e fechando * temos um texto italico *
+*abrindo * e fechando * temos um texto italico*
 
 
 
